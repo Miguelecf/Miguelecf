@@ -43,6 +43,17 @@ currently building
 └── homelab experiments
 ~~~
 
+## `$ foundations`
+
+```txt
+I care about fundamentals:
+├── systems thinking
+├── software architecture
+├── data modeling
+├── debugging
+├── API design
+└── maintainable software
+
 ## `$ stack`
 
 ~~~txt
