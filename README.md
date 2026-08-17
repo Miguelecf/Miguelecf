@@ -21,10 +21,6 @@
 
 <br>
 
-<p align="center">
-  <img src="./assets/migcf.png" width="190" alt="migecf">
-</p>
-
 <br>
 
 ## `$ whoami`
