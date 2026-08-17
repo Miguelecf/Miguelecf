@@ -45,7 +45,7 @@ currently building
 
 ## `$ foundations`
 
-```txt
+~~~txt
 I care about fundamentals:
 ├── systems thinking
 ├── software architecture
@@ -53,7 +53,7 @@ I care about fundamentals:
 ├── debugging
 ├── API design
 └── maintainable software
-
+~~~
 ## `$ stack`
 
 ~~~txt
