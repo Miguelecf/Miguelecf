@@ -1,7 +1,3 @@
-<p align="right">
-  <a href="./README.es.md">Español</a>
-</p>
-
 <h1 align="center">
   <b>Hi, I'm Miguel Caraballo</b>
   <img
