@@ -44,7 +44,7 @@ Go · AI Agents · State Machine · Human Approval Gates · Developer Tooling
 
 ElGordo IA separates the workflow runtime from the model: it manages planning,
 execution, review, evidence, and explicit human gates through a deterministic
-state machine.
+state machine. [Explore the visual guide](https://miguelecf.github.io/elgordo-ia/).
 
 ### [Event Management System — UNLa TFI](https://github.com/Miguelecf/gestion-eventos-mvp)
 
@@ -57,7 +57,7 @@ Java 17 · Spring Boot · React · TypeScript · MySQL · Flyway · Docker
 A full-stack system with role-based access, public requests, event lifecycle
 states, availability validation, conflict handling, notifications, and REST APIs.
 
-### Project Pet
+### [Project Pet — live demo](https://project-pet-alpha.vercel.app/)
 
 > A client-oriented product focused on solving real operational workflows.
 
@@ -65,8 +65,9 @@ states, availability validation, conflict handling, notifications, and REST APIs
 Product delivery · Backend flows · Validation · Persistence · Testing
 ```
 
-The project is private while under active development. Its goal is not a demo
-CRUD: it is to ship a stable, usable vertical slice for a real problem.
+The source repository is private while the product is under active development.
+Its goal is not a demo CRUD: it is to ship a stable, usable vertical slice for
+a real problem.
 
 ## `$ engineering-principles`
 
