@@ -1,161 +1,106 @@
-<h1 align="center">
-  <b>Hi, I'm Miguel Caraballo</b>
-  <img
-    src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"
-    width="32"
-    alt="wave"
-  />
-</h1>
+<h1 align="center">Hi, I'm Miguel Caraballo 👋</h1>
 
 <p align="center">
-  <b>Systems Analyst · Software Developer · Python & AI · QA in Training</b>
+  <b>Systems Analyst · Software Developer Jr. · Backend Java & Python · AI Agents & Automation</b>
 </p>
 
 <p align="center">
-  <code>building software, breaking abstractions.</code>
+  <code>building reliable systems, APIs, and developer tooling.</code>
 </p>
-
-<br>
 
 ## `$ whoami`
 
 ```txt
-Systems Analyst and Software Developer focused on the Python ecosystem,
-software architecture, AI systems, automation and software quality.
+Systems Analyst and Software Developer Jr. focused on backend engineering.
 
-I like building things from first principles, understanding what happens
-under the hood and keeping complexity where it belongs.
+Java and Spring Boot are my strongest foundation. I am expanding my
+Python practice with FastAPI, while using SQL, testing, and REST API design
+to build complete, maintainable products.
 
-Currently learning, building and documenting the process in public.
+React is a complementary frontend tool: enough to close a product loop,
+not the center of my professional direction.
 ```
 
-## `$ currently`
+## `$ focus`
 
 ```txt
-currently building
-├── AI agents & orchestration
-├── Python web products
-├── developer tooling
-├── CLI & scripting experiments
-├── QA & test automation practice
-├── testing & API validation
-└── homelab experiments
+Backend        Java · Spring Boot · Python · FastAPI · REST APIs
+Data           SQL · PostgreSQL · MySQL · data modeling
+Frontend       TypeScript · React
+Quality        JUnit · Pytest · API / integration testing · Postman
+Delivery       Docker · Git · GitHub · CI/CD
+Differential   AI agents · workflow orchestration · developer tooling
 ```
 
-## `$ foundations`
+## `$ featured-work`
+
+### [ElGordo IA](https://github.com/Miguelecf/elgordo-ia)
+
+> A workflow harness for AI-assisted software development, built on OpenCode.
 
 ```txt
-I care about fundamentals:
-├── systems thinking
-├── software architecture
-├── data modeling
-├── debugging
-├── API design
-├── software quality
-├── problem solving
-└── maintainable software
+Go · AI Agents · State Machine · Human Approval Gates · Developer Tooling
 ```
 
-## `$ stack`
+ElGordo IA separates the workflow runtime from the model: it manages planning,
+execution, review, evidence, and explicit human gates through a deterministic
+state machine.
+
+### [Event Management System — UNLa TFI](https://github.com/Miguelecf/gestion-eventos-mvp)
+
+> Final degree project for centralizing the planning and operational management of university events.
 
 ```txt
-Languages      Python · Java · SQL
-
-Python         FastAPI · Django · Reflex
-Backend        Spring Boot · REST APIs
-Databases      PostgreSQL · MySQL · SQLite · MongoDB
-
-Testing        Manual Testing · Functional Testing · API Testing
-               Postman · Newman · JUnit
-
-Infra          Docker · Linux · Git · GitHub
-
-AI             Agents · Orchestration · Automation
+Java 17 · Spring Boot · React · TypeScript · MySQL · Flyway · Docker
 ```
 
-## `$ qa`
+A full-stack system with role-based access, public requests, event lifecycle
+states, availability validation, conflict handling, notifications, and REST APIs.
+
+### Project Pet
+
+> A client-oriented product focused on solving real operational workflows.
 
 ```txt
-currently developing
-├── test case design
-├── manual & functional testing
-├── API testing
-├── bug reporting
-├── data validation with SQL
-├── automated test data generation
-└── test automation foundations
+Product delivery · Backend flows · Validation · Persistence · Testing
 ```
 
-My development background helps me approach QA from both sides:
-understanding how software behaves for the user and how it works underneath.
+The project is private while under active development. Its goal is not a demo
+CRUD: it is to ship a stable, usable vertical slice for a real problem.
 
-## `$ featured`
-
-### elgordo-ia
-
-> Agent orchestration system for software development workflows.
+## `$ engineering-principles`
 
 ```txt
-Python · AI Agents · Orchestration · Developer Tooling
+├── model business rules explicitly
+├── prefer clear API contracts over hidden behavior
+├── test critical paths and regressions
+├── keep architecture proportional to the problem
+└── use AI as a development multiplier, not a substitute for engineering judgment
 ```
 
-Currently building the project in public while exploring agent architectures,
-skills, sub-agents, orchestration strategies and AI-assisted software workflows.
-
-## `$ learning-in-public`
+## `$ currently-building`
 
 ```txt
-learning
-├── Python ecosystem
-├── AI engineering
-├── software architecture
-├── agent orchestration
-├── QA engineering
-├── testing & automation
-└── systems design
+├── Java / Spring Boot backend depth
+├── Python / FastAPI APIs
+├── AI-agent orchestration and automation
+├── testing, API validation, and CI workflows
+└── portfolio projects with real engineering evidence
 ```
-
-I use GitHub as a place to experiment, document what I learn and turn ideas
-into working software.
-
-## `$ philosophy`
-
-> Simple doesn't mean easy.
-> Good software makes complexity understandable.
 
 ## `$ connect`
 
 <p align="center">
-
-<a href="https://www.linkedin.com/in/miguel-caraballo-/">
-  <img
-    src="https://img.shields.io/badge/-LinkedIn-000000?style=flat&logo=linkedin&logoColor=white"
-    alt="LinkedIn"
-  />
-</a>
-
-<a href="mailto:mxcf98@gmail.com?subject=Hi%20Miguel%20-%20nice%20to%20meet%20you!">
-  <img
-    src="https://img.shields.io/badge/-Gmail-000000?style=flat&logo=gmail&logoColor=white"
-    alt="Email"
-  />
-</a>
-
-<a href="https://www.instagram.com/migecf/">
-  <img
-    src="https://img.shields.io/badge/-Instagram-000000?style=flat&logo=instagram&logoColor=white"
-    alt="Instagram"
-  />
-</a>
-
+  <a href="https://www.linkedin.com/in/miguel-caraballo-/">
+    <img src="https://img.shields.io/badge/-LinkedIn-000000?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:mxcf98@gmail.com?subject=Hi%20Miguel%20-%20nice%20to%20meet%20you!">
+    <img src="https://img.shields.io/badge/-Email-000000?style=flat&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
 
 ---
 
 <p align="center">
-  <b>code · systems · intelligence · quality</b>
-</p>
-
-<p align="center">
-  <code>miguelecf@github:~$ █</code>
+  <code>java · python · backend · systems · automation</code>
 </p>
